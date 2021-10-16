@@ -6,8 +6,8 @@ import guru.springframework.sfgpetclinic.model.Pet;
 import guru.springframework.sfgpetclinic.model.Visit;
 import guru.springframework.sfgpetclinic.services.PetService;
 import guru.springframework.sfgpetclinic.services.VisitService;
+import jakarta.validation.Valid;
 
-import javax.validation.Valid;
 import java.util.Map;
 
 

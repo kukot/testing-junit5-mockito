@@ -6,8 +6,8 @@ import guru.springframework.sfgpetclinic.fauxspring.ModelAndView;
 import guru.springframework.sfgpetclinic.fauxspring.WebDataBinder;
 import guru.springframework.sfgpetclinic.model.Owner;
 import guru.springframework.sfgpetclinic.services.OwnerService;
+import jakarta.validation.Valid;
 
-import javax.validation.Valid;
 import java.util.List;
 
 
